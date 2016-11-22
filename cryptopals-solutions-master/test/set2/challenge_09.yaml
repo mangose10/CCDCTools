@@ -1,0 +1,4 @@
+---
+plaintext: "YELLOW SUBMARINE"
+blocksize: 20
+expected: "YELLOW SUBMARINE\x04\x04\x04\x04"

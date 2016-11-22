@@ -1,0 +1,6 @@
+---
+key: 'YELLOW SUBMARINE'
+nonce: "\x00\x00\x00\x00\x00\x00\x00\x00"
+ciphertext: !!binary
+    L77na/nrFsKvynd6HzOoG7GHTLXsTVu9qvY/2syLXzhPweyyMTJULu/6/kXX0KSvoOLSFQ==
+plaintext: "Yo, VIP Let's kick it Ice, Ice, baby Ice, Ice, baby "
